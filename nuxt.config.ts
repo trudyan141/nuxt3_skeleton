@@ -27,11 +27,5 @@ export default defineNuxtConfig({
     "@nuxt/image", 
     'nuxt3-vuex-module',
     '@vee-validate/nuxt'
-  ],
-  plugins: [
-    '@/plugins/antd',
-    '@/plugins/mixin-global',
-    '@/plugins/vue-i18n',
-    '@/plugins/vee-validate-rules'
   ]
 })
