@@ -1,0 +1,19 @@
+$mobile-device: 767px;
+
+// grid ant design
+$ant-grid-xs: 575px; // <576px
+$ant-grid-sm: 576px; // ≥576px
+$ant-grid-md: 768px; // ≥768px
+$ant-grid-lg: 992px; // ≥992px
+$ant-grid-xl: 1200px; // ≥1200px
+$ant-grid-xxl: 1600px; // ≥1600px
+
+$width-main-content: 1500px;
+$width-design-content: 1440px;
+
+$on-desktop-device: 1200px;
+$on-mobile-device: 1199px;
+$on-header-mobile-device: $on-mobile-device;
+$on-padding-top-header-desktop: 64px;
+$on-padding-top-header-mobile: 52px;
+$on-padding-top-header-mobile-news: 96px;
