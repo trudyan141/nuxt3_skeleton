@@ -1,5 +1,6 @@
 import { reconnect } from '@wagmi/core'
-import { createWeb3Modal, defaultWagmiConfig } from '@web3modal/wagmi'
+import { defaultWagmiConfig } from '@web3modal/wagmi'
+import { createWeb3Modal } from '@web3modal/wagmi/vue'
 import { UseWagmiPlugin } from 'use-wagmi'
 import { arbitrum, mainnet } from 'viem/chains'
 
